@@ -1,7 +1,5 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Keywords"
 ---
-cout << " hello world";
-Use the left arrow to go back!
-cout << "hello world";
+Keywords are words or phrases which are triggering ads to display in the search engine results. These keywords are used so that websites can use these ads to help build traffic to their website.
