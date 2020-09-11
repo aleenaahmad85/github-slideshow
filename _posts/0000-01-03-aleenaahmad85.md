@@ -1,7 +1,8 @@
 ---
 layout: slide
-title: "MySpace"
+title: "Facebook"
 ---
-MySpace was an American social networking website which was founded on August 1, 2003.
-It was the largest networking website from 2005 to 2008. 
-I personally remember using MySpace, changing the background and keeping my page up to date with the latest music in the background. It was like a challenge to make sure that you have the coolest page out of all your friends.
+Facebook was started on February 4, 2004 by Mark Zackerberg in his Harvard dorm room. 
+He originally opened this website for Harvard students and was later expanded to other universities.
+I personally remember leaving my MySpace page to open a Facebook profile because I saw all my friends telling me they don't use MySpace anymore. At that time, it was interesting to open a Facebook account because it was it was very simple and easy. 
+Now Facebook has now other networking products such as Facebook Messenger, WhatsApp, Instagram, Facebook Marketplace.
