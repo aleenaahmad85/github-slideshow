@@ -1,5 +1,7 @@
 ---
 layout: slide
-title: "Conversions"
+title: "Reddit"
 ---
-Actions that vistors take on a website such as leads, orders, downloads and phone calls. This is an important part from your landing page, does the vistor need to sign up for an account? or Subscribe or call the sales team for a deal?
+Reddit was founded in June 23,2005 by roommates of University of Virginia (Steve Huffman & Alexis Ohanian).
+Reddit is a social media website which mostly user discussions and posts about different topics of which some are: news, politics, games, books and many more.
+Reddit has 330 million users as of 2018.
